@@ -1,0 +1,14 @@
+{
+  "id": 1042,
+  "pseudo": "Max37",
+  "age": 15,
+  "ville": "Tours",
+  "historique": ["basket", "baskets", "concert"],
+  "dernier_evenement": {
+    "action": "like",
+    "contenu": "baskets_2026",
+    "publication": 1842
+  },
+  "publicite_ciblee": true,
+  "partage_partenaires": true
+}

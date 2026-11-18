@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transmission>
+  <destinataire>PublicitePlus</destinataire>
+  <utilisateur>
+    <pseudo>Max37</pseudo>
+    <ville>Tours</ville>
+    <interet>baskets</interet>
+  </utilisateur>
+  <autorisation>false</autorisation>
+</transmission>
